@@ -6,8 +6,8 @@
 * 'Gold will never dim ever', firmly believe it, and struggle for it, struggle for your future.
 
 ## 2 Architecture
-* `Paper       Set`: some set of conference paper, update it if it's necessary.
-* `Source Code Set` : some set of open source code.
+* `Paper       Set`: some set of conference paper, update it if it's necessary. [click here](https://github.com/hikaruzzz/Triple-Head-Based-Repository-of-Paper-Development/blob/master/Paper%20Set.md)
+* `Source Code Set` : some set of open source code. [click here](https://github.com/hikaruzzz/Triple-Head-Based-Repository-of-Paper-Development/blob/master/Source_Code_Set.md)
 * ` `
 
 ## 3 Rule of Repository
