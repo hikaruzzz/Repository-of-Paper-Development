@@ -8,11 +8,11 @@
 ## 2 Architecture
 * `Paper       Set`: some set of conference paper, update it if it's necessary.
 * `Source Code Set` : some set of open source code.
+* ` `
 
 ## 3 Rule of Repository
-[`some help of file edit in here`](https://blog.csdn.net/kaitiren/article/details/38513715"!")
-
-
+* [`some help of file edit in here`](https://blog.csdn.net/kaitiren/article/details/38513715"!")
+* ` `
 
 
 
