@@ -1,7 +1,7 @@
 # `Triple Head Based` Repository of Paper Development
 ## 1 Introduce
 * Due to the critical circumstance of lab508, some orginization need to be made up for the paper and research communication. Inspired by this opinion, now we set up this repository.
-* It is the time to become a warrior when you join in this repository.
+* It is the time to become a warrior when you join in this repository. And also need your help to develop this repository together, always waitting for your pull requests. 
 * Welcome all the guy who been isolated or decide to become isolated, here might be the last area for your research future, but now in here we aren't isolated ever. 
 * 'Gold will never dim ever', firmly believe it, and struggle for it, struggle for your future.
 
