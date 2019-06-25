@@ -1,6 +1,6 @@
 # To find some direction of research
 
-## Graph context, Instance relationship / relative.
+## 1 Graph context, Instance relationship / relative.
 ### papers from CVPR
 * [Structure Inference Net_CVPR2018](https://arxiv.org/abs/1807.00119)
 * [Scene Graph Generation by Iterative Message Passing_CVPR2017](https://arxiv.org/pdf/1701.02426.pdf)
@@ -18,7 +18,7 @@
 
 
 
-## Deep Learning in the field of Graphics(from SIGGRAPH)
+## 2 Deep Learning in the field of Graphics(from SIGGRAPH)
 ### papers
 * [Deep Learning of Biomimetic Sensorimotor Control for Biomechanical Human Animation_SIGGRAPH2018](http://web.cs.ucla.edu/~nakada/pdfs/siggraph18_nakada.pdf)
 * [Deep Appearance Models for Face Rendering_SIGGRAPH2018](https://arxiv.org/pdf/1808.00362.pdf)
@@ -26,3 +26,9 @@
 * [Semantic Soft Segmentation_SIGGRAPH2018](http://people.inf.ethz.ch/aksoyy/papers/TOG18-sss.pdf)
 * [Efficient Reflectance Capture Using an Autoencoder_SIGGRAPH2018](http://www.cad.zju.edu.cn/home/hwu/publications/autoenc/LDAE_SIG18_lq.pdf)
 * [Single-Image SVBRDF Capture with a Rendering-Aware Deep Network_SIGGRAPH2018]
+
+## 3 Field of Deraining(去雨）
+### papers
+* [Spatial Attentive Single-Image Deraining with a High Quality Real Rain Dataset_CVPR2019](https://arxiv.org/pdf/1904.01538.pdf)
+* [Single Image Deraining: A Comprehensive Benchmark Analysis_CVPR2019](https://arxiv.org/pdf/1903.08558.pdf)
+* [Progressive Image Deraining Networks: A Better and Simpler Baseline_CVPR2019](https://arxiv.org/pdf/1901.09221.pdf)
