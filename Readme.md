@@ -1,4 +1,4 @@
-# `Triple Head Based` Repository of Paper Development
+# `Triple Head Based` Repository of Papers & Codes 
 ## 1 Introduce
 * A repository be made up for communication of paper and research. 
 * And also need your help to develop this repository together, always waitting for your pull requests. 
