@@ -1,6 +1,6 @@
 # To find some direction of research
 
-## new. semantic segmentation
+## 0. Semantic Segmentation
 ### papers
 * [Few-shot Adaptive FasterR-CNN(few-shot!)](https://arxiv.org/pdf/1903.09372.pdf)
 * [Large-Scale Long-Tailed Recognitioninan Open World](https://arxiv.org/pdf/1904.05160v1.pdf)
