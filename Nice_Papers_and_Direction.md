@@ -1,11 +1,17 @@
 # To find some direction of research
 
-## 0. Semantic Segmentation
+## . Point Cloud segmentation
+* [KPConv cvpr'19](https://arxiv.org/pdf/1904.08889.pdf)
+* [Submanifold Sparse Conv cvpr'18](https://arxiv.org/pdf/1711.10275.pdf)
+* [PointConv 19](https://arxiv.org/pdf/1811.07246v1.pdf)
+* [PointNet 17 class baseline](https://arxiv.org/pdf/1612.00593.pdf)
+* [Graph Attention Conv cvpr'19](https://engineering.purdue.edu/~jshan/publications/2018/Lei%20Wang%20Graph%20Attention%20Convolution%20for%20Point%20Cloud%20Segmentation%20CVPR2019.pdf)
+## . Semantic Segmentation
 ### papers
 * [Few-shot Adaptive FasterR-CNN(few-shot!)](https://arxiv.org/pdf/1903.09372.pdf)
 * [Large-Scale Long-Tailed Recognitioninan Open World](https://arxiv.org/pdf/1904.05160v1.pdf)
 * [Weakly Supervised Learning of Instance Segmentation with Inter-pixel Relations](https://arxiv.org/pdf/1904.05044.pdf)
-## 1. Graph context, Instance relationship / relative.
+## . Graph context, Instance relationship / relative.
 ### papers from CVPR
 * [Learning to Cluster Faces on an Affinity Graph_CVPR2019](https://arxiv.org/pdf/1904.02749.pdf)
 * [PPGNet: Learning Point-Pair Graph for Line Segment Detection_CVPR2019](https://arxiv.org/abs/1905.03415)
@@ -35,7 +41,7 @@
 * [Factorizable Net: An Eﬃcient Subgraph-based Framework for Scene Graph Generation](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yikang_LI_Factorizable_Net_An_ECCV_2018_paper.pdf)
 * [Convolutional Networks with Adaptive Inference Graphs](http://openaccess.thecvf.com/content_ECCV_2018/papers/Andreas_Veit_Convolutional_Networks_with_ECCV_2018_paper.pdf)
 
-## 2. Graph Convolutional Networks in Detection & Image Recognition
+## . Graph Convolutional Networks in Detection & Image Recognition
 ### 
 * [Multi-Label Image Recognition with Graph Convolutional Networks_CVPR19](https://arxiv.org/abs/1904.03582)
 * [Linkage Based Face Clustering via Graph Convolution Network_CVPR19](https://arxiv.org/abs/1903.11306)
@@ -44,7 +50,7 @@
 * [Rethinking Knowledge Graph Propagation for Zero-Shot Learning_CVPR2019|| 零样本学习/图卷积网络](https://arxiv.org/abs/1805.11724v3)
 
 
-## 3. Deep Learning in the field of Graphics
+## . Deep Learning in the field of Graphics
 ### papers from SIGGRAPH 2018
 * [Deep Learning of Biomimetic Sensorimotor Control for Biomechanical Human Animation_SIGGRAPH2018](http://web.cs.ucla.edu/~nakada/pdfs/siggraph18_nakada.pdf)
 * [Deep Appearance Models for Face Rendering_SIGGRAPH2018](https://arxiv.org/pdf/1808.00362.pdf)
@@ -56,7 +62,7 @@
 * [InverseRenderNet: Learning single image inverse rendering_CVPR2019](https://arxiv.org/pdf/1811.12328.pdf)
 
 
-## 4. Field of Deraining(去雨）
+## . Field of Deraining(去雨）
 ### papers
 * [Spatial Attentive Single-Image Deraining with a High Quality Real Rain Dataset_CVPR2019](https://arxiv.org/pdf/1904.01538.pdf)
 * [Single Image Deraining: A Comprehensive Benchmark Analysis_CVPR2019](https://arxiv.org/pdf/1903.08558.pdf)
