@@ -6,9 +6,11 @@
 * [PointConv 19](https://arxiv.org/pdf/1811.07246v1.pdf)
 * [PointNet 17 class baseline](https://arxiv.org/pdf/1612.00593.pdf)
 * [Graph Attention Conv cvpr'19](https://engineering.purdue.edu/~jshan/publications/2018/Lei%20Wang%20Graph%20Attention%20Convolution%20for%20Point%20Cloud%20Segmentation%20CVPR2019.pdf)
-* 旋转不变性，概念物重组,重新思考反向传播机制，下面 2篇论文 CapsulesNet by Geoffrey Hinton
+* [CCNet-attention for semantic segmentation](https://arxiv.org/pdf/1811.11721v1.pdf)
+* 旋转不变性，概念物重组,重新思考反向传播机制，下面 3篇论文 CapsulesNet by Geoffrey Hinton
 * [MATRIX CAPSULES WITH EM ROUTING](https://openreview.net/pdf?id=HJWLfGWRb)
 * [Dynamic Routing Between Capsules](https://arxiv.org/abs/1710.09829)
+* [3D Point Capsule Networks](https://www.researchgate.net/publication/330009219_3D_Point-Capsule_Networks)
 ## . Semantic Segmentation
 ### papers
 * [Few-shot Adaptive FasterR-CNN(few-shot!)](https://arxiv.org/pdf/1903.09372.pdf)
