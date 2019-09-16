@@ -8,3 +8,8 @@
 * [上文的翻译版](https://www.cnblogs.com/Jie-Liang/p/6902375.html)
 ## Meta-Learning
 * [review of Meta-Learning](https://www.zhihu.com/question/264595128)
+## Attention mechanism
+* [Attention is all you need](https://arxiv.org/pdf/1706.03762.pdf)
+* [中文解释](http://www.sohu.com/a/215705742_500659)
+
+
