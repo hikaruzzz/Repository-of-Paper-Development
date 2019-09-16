@@ -1,5 +1,10 @@
 # To find some direction of research
 
+## . Attention mechanism
+* [Attention is all you need '17,一种总结](https://arxiv.org/pdf/1706.03762.pdf)
+* [CCNet iccv'19](https://arxiv.org/pdf/1811.11721v1.pdf)
+* [PCAN cvpr'19](https://arxiv.org/pdf/1904.09793v1.pdf)
+* [Modeling Point Clouds with Self-Attention and Gumbel Subset Sampling cvpr'19](https://arxiv.org/pdf/1904.03375v1.pdf)
 ## . Point Cloud segmentation
 * [KPConv cvpr'19](https://arxiv.org/pdf/1904.08889.pdf)
 * [Submanifold Sparse Conv cvpr'18](https://arxiv.org/pdf/1711.10275.pdf)
