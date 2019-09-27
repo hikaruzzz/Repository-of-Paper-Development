@@ -71,6 +71,9 @@
 ### papers from CVPR 2019
 * [InverseRenderNet: Learning single image inverse rendering_CVPR2019](https://arxiv.org/pdf/1811.12328.pdf)
 
+## . Tricks（调参宝典）
+### papers & resource
+* [Bag of Tricks for Image Classiﬁcation with Convolutional Neural Networks,2018](https://arxiv.org/pdf/1812.01187.pdf)
 
 ## . Field of Deraining(去雨）
 ### papers
